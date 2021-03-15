@@ -14,7 +14,7 @@ I'm Sami from Canada, and I am a self taught Web Developer who is passionate abo
 - 📫 How to reach me: Sami.kasasbehdev@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sami-kasasbeh-73b3b9193/) 
+         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sami-kasasbeh-73b3b9193/) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samikasasbeh&show_icons=true)  
 
